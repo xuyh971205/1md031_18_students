@@ -17,3 +17,7 @@ Do not use this skeleton code for creating production apps. Security and stabili
 8. Use another device to check what is happening at `<your IP address>:3000` (for this you may need to adjust your computer's firewall to allow connections to Node)
 
 That should be enough to get started. Happy tinkering!
+
+## Checklist
+
+Before you submit your lab code, make sure you have solved all the mandatory tasks. [This checklist](checklist.md) helps you to keep track of the tasks.
